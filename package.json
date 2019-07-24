@@ -1,0 +1,22 @@
+{
+  "name": "vue-ag-grid-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "ag-grid-community": "^21.1.0",
+    "ag-grid-enterprise": "^21.1.0",
+    "ag-grid-vue": "^21.1.0",
+    "core-js": "^2.6.5",
+    "vue": "^2.6.10",
+    "vue-property-decorator": "^8.2.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
