@@ -4,7 +4,6 @@
       :columnDefs="columnDefs"
       :rowData="rowData"
     >
-      >
     </ag-grid-vue>
 </template>
 
